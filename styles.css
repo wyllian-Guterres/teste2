@@ -1,0 +1,12 @@
+
+body {
+    flex-direction: row;
+    align-content: center;
+    color: blue;
+}
+
+.botao-entrar {
+    color: red;
+    align-content: center;
+    
+}
