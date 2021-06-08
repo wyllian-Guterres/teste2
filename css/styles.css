@@ -1,0 +1,46 @@
+
+body {
+
+    flex-direction: row;
+    align-content: center;
+    color: blue;
+}
+
+.section1{
+    display: flex;
+    flex-direction: column;
+}
+ 
+.div1{
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+p{
+    size: 10px;
+    color: brown;
+    transform: none;
+    margin-left: 50px;
+}
+
+.aref{
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: coral;
+}
+
+.video{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h2{
+color: cornflowerblue;
+align-items: center;
+justify-content: center;
+display: flex;
+}
